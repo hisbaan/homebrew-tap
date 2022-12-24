@@ -1,9 +1,9 @@
 class Didyoumean < Formula
     desc "A CLI spelling corrector"
     homepage "https://github.com/hisbaan/didyoumean"
-    url "https://github.com/hisbaan/didyoumean/releases/download/v1.1.3/dym-1.1.3-x86_64-apple-darwin.tar.gz"
-    sha256 "eb95bb60a344bd12b6b52e25768e27ab185fb298fdf5e9e9f6ddd43d138d0c34"
-    version "1.1.3"
+    url "https://github.com/hisbaan/didyoumean/releases/download/v1.1.4/dym-1.1.4-x86_64-apple-darwin.tar.gz"
+    sha256 "f3228838de34ac88fc7cdfd4d0c86c86ede840afe1678fcbc524b55d840b7215"
+    version "1.1.4"
 
     def install
         bin.install "dym"
